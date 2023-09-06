@@ -13,3 +13,5 @@
 🔮 Após terminar meu curso de desenvolvedor Full Stack eu pretendo migrar por um ano pra área de games, pois eu gosto muito de jogos e quero aprimorar meu conhecimento de Back-End, utilizando C# e Unity.
 
 ![Davi GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviZeDaManga&theme=blue-green)
+
+<h1><strong>PROGRAMADOR HTML</strong></h1>
