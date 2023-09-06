@@ -1,4 +1,4 @@
-### Ola, eu sou o Davi Matos👋
+### <h1><strong>OLA, EU SOU O DAVI MATOS👋</strong></h1>
 
 🟣 No momento eu estou cursando um curso de T.I. onde eu estou ganhando muito conhecimento na área. Estou prestes a terminar meu curso tecnico e entregar meu TCC, donde eu estou utilizando HTML, CSS, Java Script, React, API e Banco de dados.
 
