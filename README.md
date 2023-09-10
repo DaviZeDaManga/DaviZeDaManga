@@ -14,4 +14,7 @@
 
 ![Davi GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviZeDaManga&theme=blue-green)
 
-<h1><strong>PROGRAMADOR HTML</strong></h1>
+<h1><strong>PROGRAMADOR HTML <== FAKE</strong></h1>
+<h1><strong>DESENVOLVEDOR FULL STACK</strong></h1>
+
+Estou na reta final de minha jornada para me tornar um desenvolvedor full stack. Ao longo dos anos, adquiri habilidades em programação, front-end e back-end. Agora, estou pronto para enfrentar desafios mais complexos e contribuir para o mundo da tecnologia com soluções inovadoras. Minha paixão pelo aprendizado contínuo me guiará para o sucesso no futuro.
