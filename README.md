@@ -1,6 +1,6 @@
 ### <h1><strong>OLA, EU SOU O DAVI MATOS👋</strong></h1>
 
-🟣 No momento eu estou cursando um curso de T.I. onde eu estou ganhando muito conhecimento na área. Estou prestes a terminar meu curso tecnico e entregar meu TCC, donde eu estou utilizando HTML, CSS, Java Script, React, API e Banco de dados.
+🟣 Tenho experiencia de um ano de aprendizado consistente em programação. Ano passado fiz um curso de desenvolvedor Full Stack, que me trouxe diversas skills em programação. Esse estou cursando um curso de fundamentos da lógica e ingles.
 
   
 ☂️ Meu email: "davytoons079@gmail.com"
@@ -10,12 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviZeDaManga&show_icons=true&theme=dark)
 
-🔮 Após terminar meu curso de desenvolvedor Full Stack eu pretendo migrar por um ano pra área de games, pois eu gosto muito de jogos e quero aprimorar meu conhecimento de Back-End, utilizando C# e Unity.
-
 ![Davi GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviZeDaManga&theme=dark)
 
-<h1><strong>DESENVOLVEDOR FULL STACK</strong></h1>
-
-Estou na reta final de minha jornada para me tornar um desenvolvedor full stack. Ao longo dos anos, adquiri habilidades em programação, front-end e back-end. Agora, estou pronto para enfrentar desafios mais complexos e contribuir para o mundo da tecnologia com soluções inovadoras. Minha paixão pelo aprendizado contínuo me guiará para o sucesso no futuro.
-
-HTML => VIDA
+🔮 Esse ano tenho o objetivo de comecar a trabalhar como freelancer fullstack, terminar meu curso de Fundamentos da lógica e o ingles, aprimorando meu aprendizado.
